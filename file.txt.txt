@@ -1,0 +1,5 @@
+Hello Git
+Student: Smolanchuk
+Group: KB21
+
+This is Smolanchuk branch
