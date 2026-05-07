@@ -1,0 +1,3 @@
+Hello Git
+Student: Smolanchuk
+Group: KB21
